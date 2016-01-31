@@ -46,8 +46,8 @@
   <ItemGroup>
     <Compile Include="Data\AppConfiguration.cs" />
     <Compile Include="Data\IAppConfiguration.cs" />
-    <Compile Include="IAssemblyTypeLoader.cs" />
-    <Compile Include="AssemblyTypeLoader.cs" />
+    <Compile Include="Services\IAssemblyTypeLoader.cs" />
+    <Compile Include="Services\AssemblyTypeLoader.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\ISentenceProcessor.cs" />

@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 
-namespace WordCounter
+namespace WordCounter.Services
 {
     internal class AssemblyTypeLoader : IAssemblyTypeLoader
     {

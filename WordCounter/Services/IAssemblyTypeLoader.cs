@@ -1,4 +1,4 @@
-﻿namespace WordCounter
+﻿namespace WordCounter.Services
 {
     /// <summary>
     /// Loads given type from the assembly.
